@@ -2,3 +2,10 @@ baseURL: https://nationalteam.github.io/notes/
 languageCode: zh-tw
 title: 國手筆記
 theme: PaperMod
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: "/"
+      weight: 1
