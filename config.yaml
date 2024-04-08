@@ -1,4 +1,4 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://nationalteam.github.io/notes/
+languageCode: zh-tw
+title: 國手筆記
 theme: PaperMod
