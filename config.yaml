@@ -9,3 +9,15 @@ menu:
       name: Posts
       url: "/"
       weight: 1
+    - identifier: archives
+      name: Archive
+      url: "/archives/"
+      weight: 2
+    - identifier: search
+      name: Search
+      url: "/search/"
+      weight: 3
+    - identifier: tags
+      name: Tags
+      url: "/tags/"
+      weight: 4
