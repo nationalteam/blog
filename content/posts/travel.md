@@ -18,5 +18,16 @@ tags: tavel, japan
 
 ## 行動網路
 
-- [Airalo](https://www.airalo.com/) -
+- [Airalo](https://www.airalo.com/) - 
 - 
+
+# 美國
+
+# 德國
+
+## 交通
+
+- [BVG](https://www.bvg.de/en) - 柏林地鐵公司
+
+# 英國
+
