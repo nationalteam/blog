@@ -5,6 +5,8 @@ draft: false
 showtoc: true
 ---
 
+[link](https://nationalteam.github.io/notes/posts/travel)
+
 # 日本
 
 ## 交通
