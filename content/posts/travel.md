@@ -5,6 +5,8 @@ draft: false
 showtoc: true
 ---
 
+[hackmd](https://hackmd.io/dD4R8Yj_RwewYJslSFyFeA) / [blog](https://nationalteam.github.io/notes/posts/travel/) / [github](https://github.com/nationalteam/notes/blob/main/content/posts/travel.md)
+
 # 日本
 
 ## 交通
