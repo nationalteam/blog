@@ -26,8 +26,21 @@ taxonomies:
   category: categories
   tag: tags
 
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
 outputs:
   home:
     - html
     - rss
     - json
+
+# https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/
+params:
+  ShowShareButtons: "true"
+  ShowReadingTime: "true"
+  ShowPostNavLinks: "true"
+  ShowCodeCopyButtons: "true"
+
+sitemap:
+  changefreq: "monthly"
+  filename: "sitemap.xml"
+  priority: "0.5"
