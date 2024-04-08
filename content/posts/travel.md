@@ -3,7 +3,7 @@ title: 國手旅行筆記
 date: 2024-04-08T17:57:38+08:00
 draft: false
 showtoc: true
-tags: tavel, japan
+tags: ["tavel", "japan"]
 ---
 
 [hackmd](https://hackmd.io/dD4R8Yj_RwewYJslSFyFeA) / [blog](https://nationalteam.github.io/notes/posts/travel/) / [github](https://github.com/nationalteam/notes/blob/main/content/posts/travel.md)
