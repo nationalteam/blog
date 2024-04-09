@@ -1,6 +1,11 @@
 ---
-tags: hsbc, travel
+title: "滙豐旅人無限卡使用筆記"
+date: 2023-12-14T13:00:00+08:00
+draft: false
+showtoc: true
+tags: ["tavel", "hsbc"]
 ---
+
 # 滙豐旅人無限卡使用筆記
 
 ## TL;DR
