@@ -6,7 +6,7 @@ showtoc: true
 tags: ["tavel", "japan"]
 ---
 
-[hackmd](https://hackmd.io/dD4R8Yj_RwewYJslSFyFeA) / [blog](https://nationalteam.github.io/notes/posts/travel/) / [github](https://github.com/nationalteam/notes/blob/main/content/posts/travel.md)
+[hackmd](https://hackmd.io/dD4R8Yj_RwewYJslSFyFeA) / [blog](https://nationalteam.github.io/blog/posts/travel/) / [github](https://github.com/nationalteam/blog/blob/main/content/posts/travel.md)
 
 [TOC]
 
@@ -25,6 +25,13 @@ tags: ["tavel", "japan"]
 - [Go Taxi](https://go.goinc.jp/) - 叫計程車服務
     - [App Store](https://apps.apple.com/us/app/go-taxi-app-for-japan/id1254341709)
 
+## 住宿
+
+### 大阪
+
+- [ホテル阪急レスパイア大阪](https://www.hankyu-hotel.com/hotel/respire/osaka) - 大阪地點絕佳飯店：阪急龍仕柏 Hotel Hankyu RESPIRE OSAKA
+    - [Google Map](https://maps.app.goo.gl/cpJttHsicFJbkKkp9)
+    - [一直玩的馬摩 推薦文章](https://www.facebook.com/massijuan/posts/pfbid02s8HtkaCXd4FFyGbr4kEtU7U3Wc4Q2o2xxnwvKSy4LkQ6WH23SbMy9icScUkgruftl)
 
 ## 行李寄放
 
@@ -32,7 +39,7 @@ tags: ["tavel", "japan"]
 
 ## 行動網路
 
-- [Airalo](https://www.airalo.com/) - 
+- [Airalo](https://www.airalo.com/) - eSIM/便宜好用
 
 # 美國
 
