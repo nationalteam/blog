@@ -6,6 +6,8 @@ showtoc: true
 tags: ["tavel", "hsbc"]
 ---
 
+[hackmd](https://hackmd.io/uFOSyGI4RD-InevWpIkWdw) / [blog](https://nationalteam.github.io/blog/posts/hsbc-travel/) / [github](https://github.com/nationalteam/blog/blob/main/content/posts/hsbc-travel.md)
+
 # 滙豐旅人無限卡使用筆記
 
 ## TL;DR
