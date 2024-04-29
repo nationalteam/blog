@@ -10,29 +10,27 @@ tags: ["tavel", "hsbc"]
 
 ## TL;DR
 
-- [旅遊積分兌換平台](https://ecard.hsbc.com.tw/EXT/unity/login)
+- [信用卡網路服務](https://card.hsbc.com.tw/)
 - 免費機場接送 4次/年, 每年7月1日 reset, 建議使用[格上租車](https://www.air-go.com.tw/M_Airport/AirportA_HSBC.aspx)網路評價比全鋒好
 - 付費機場接送 4次/年, NT$475 起/次, 每年1月1日 reset, [網路預約](https://www.air-go.com.tw/M_Airport/airportB_note.aspx?cid=172&contractid=645)
 - 免費機場貴賓室 8次/年, [網路預約](https://24tms.vlimo.com.tw/HSBC/HSBC.aspx?ID=2)
-- [信用卡活動登錄暨查詢](https://card.apply.hsbc.com.tw/event/#/query)
-- 信用卡代繳, 刷卡通知設定: [滙豐信用卡網路服務網頁](https://ecard.hsbc.com.tw/CH/chLogin)
 
 ## 筆記
 
-- [網站](https://www.hsbc.com.tw/credit-cards/products/travel/visa-infinite/)
+- [信用卡介紹網站](https://www.hsbc.com.tw/credit-cards/products/travel/visa-infinite/)
 - 客服電話 (02)6616-6000
-- [滙豐信用卡網路服務網頁](https://ecard.hsbc.com.tw/CH/chLogin)
-    - 帳單消費明細查詢
-    - 紅利好點/旅遊積分計畫
-    - 信用卡代繳各類費用
-    - 消費分析
-    - 即時通知與帳單服務設定
+- [信用卡網路服務](https://card.hsbc.com.tw/)\
+    - 登入後點信用卡右邊三個紅點 -> 管理信用卡
+        - 申請分期付款
+        - 臨時信用額度調整
+        - 點數兌換
+        - 查詢回饋點數
+        - 點數兌換紀錄查詢
 - 哩程相關
     - 刷卡回饋
         - 海外消費(含網路交易)NT10元 = 1 哩(旅遊積分)
         - 國內消費NT18元 = 1 哩(旅遊積分)
     - [旅遊積分活動辦法](https://shop.hsbc.com.tw/installments/creditcard/rewards/info.html)
-    - [旅遊積分兌換平台](https://ecard.hsbc.com.tw/EXT/unity/login)
     - [飛行計劃](https://shop.hsbc.com.tw/installments/creditcard/rewards/fly.html)
         - [長榮航空](https://www.evaair.com/)
         - [中華航空](https://www.china-airlines.com/)
@@ -82,4 +80,4 @@ tags: ["tavel", "hsbc"]
         - 旅遊不便險(實支實付)：最高6萬
     - [秘書服務](https://www.hsbc.com.tw/credit-cards/benefits/travel-secretary/)
         - 滙豐信用卡服務專線：0800-860-929（無限卡專屬祕書請按3：其他白金卡等以上秘書或其他服務請按4)
-- [信用卡活動登錄暨查詢](https://card.apply.hsbc.com.tw/event/#/query)
+
