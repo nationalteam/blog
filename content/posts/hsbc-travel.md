@@ -21,7 +21,7 @@ tags: ["tavel", "hsbc"]
 
 - [信用卡介紹網站](https://www.hsbc.com.tw/credit-cards/products/travel/visa-infinite/)
 - 客服電話 (02)6616-6000
-- [信用卡網路服務](https://card.hsbc.com.tw/)\
+- [信用卡網路服務](https://card.hsbc.com.tw/)
     - 登入後點信用卡右邊三個紅點 -> 管理信用卡
         - 申請分期付款
         - 臨時信用額度調整
