@@ -12,6 +12,9 @@ tags: ["tavel", "japan"]
 
 # 通用
 
+- [Seat Maps](https://seatmaps.com/) - 查詢航班座位資訊
+- [SeatGuru](https://www.seatguru.com/) - 查詢航班座位資訊
+- [哩程查詢](https://www.tripplus.cc/awardplus/redemption) - 查詢各航線在各哩程計畫所需的哩程
 
 
 # 日本
@@ -32,6 +35,16 @@ tags: ["tavel", "japan"]
 - [ホテル阪急レスパイア大阪](https://www.hankyu-hotel.com/hotel/respire/osaka) - 大阪地點絕佳飯店：阪急龍仕柏 Hotel Hankyu RESPIRE OSAKA
     - [Google Map](https://maps.app.goo.gl/cpJttHsicFJbkKkp9)
     - [一直玩的馬摩 推薦文章](https://www.facebook.com/massijuan/posts/pfbid02s8HtkaCXd4FFyGbr4kEtU7U3Wc4Q2o2xxnwvKSy4LkQ6WH23SbMy9icScUkgruftl)
+- [OMO7](https://hoshinoresorts.com/zh_tw/hotels/omo7osaka/)
+
+### 滋賀
+
+- [琵琶湖ホテル](https://maps.app.goo.gl/MWmo7JydtQ21oxhs9) - 大津的琵琶湖飯店，離JR不遠，有陽台可以看湖
+
+
+### 神奈川
+
+- [オークウッドスイーツ横浜](https://maps.app.goo.gl/k1i2eKxH9ZYc7duF8)
 
 ## 行李寄放
 
