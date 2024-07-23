@@ -1,5 +1,5 @@
 ---
-title: "國手旅行實用連結"
+title: "旅行實用連結"
 date: 2024-04-08T17:57:38+08:00
 draft: false
 showtoc: true
@@ -8,13 +8,17 @@ tags: ["tavel", "japan"]
 
 [hackmd](https://hackmd.io/dD4R8Yj_RwewYJslSFyFeA) / [blog](https://nationalteam.github.io/blog/posts/travel/) / [github](https://github.com/nationalteam/blog/blob/main/content/posts/travel.md)
 
+
 [TOC]
 
 # 通用
 
+- [Google Flights](https://www.google.com/travel/flights) - 查詢航班
+- [FlightsFrom](https://www.flightsfrom.com/) - 查詢航線
 - [Seat Maps](https://seatmaps.com/) - 查詢航班座位資訊
 - [SeatGuru](https://www.seatguru.com/) - 查詢航班座位資訊
 - [哩程查詢](https://www.tripplus.cc/awardplus/redemption) - 查詢各航線在各哩程計畫所需的哩程
+- [Lonely Planet](https://www.lonelyplanet.com/) - 
 
 
 # 日本
@@ -29,6 +33,14 @@ tags: ["tavel", "japan"]
     - [App Store](https://apps.apple.com/us/app/go-taxi-app-for-japan/id1254341709)
 
 ## 住宿
+
+### 東京
+
+
+- [THE GATE HOTEL 両国 by HULIC](https://maps.app.goo.gl/8Ft4hqfbjNzU55fx5) - 
+- [京急 EXイン 羽田](https://maps.app.goo.gl/XET3jbDpKEnY875h6) - 大元帥推薦，羽田機場旁，坐在床上就能看飛機，不用10分鐘專車免費送到機場
+- [京急 EXイン 羽田イノベーションシティ](https://maps.app.goo.gl/LJzJriCEZN18Ldbg7) - 同上，有錢可以住這間
+
 
 ### 大阪
 
@@ -52,7 +64,7 @@ tags: ["tavel", "japan"]
 
 ## 行動網路
 
-- [Airalo](https://www.airalo.com/) - eSIM/便宜好用
+- [Airalo](https://www.airalo.com/) - 在日本算是好用的 eSIM
 
 # 美國
 
@@ -60,6 +72,8 @@ tags: ["tavel", "japan"]
 
 ## 交通
 
+- [Deutsche Bahn](https://int.bahn.de/en) - 德國鐵路公司
+    - [DB Navigator](https://apps.apple.com/tw/app/db-navigator/id343555245) - 德鐵的 iOS App
 - [BVG](https://www.bvg.de/en) - 柏林地鐵公司
 
 ## 行李寄放
@@ -69,12 +83,25 @@ tags: ["tavel", "japan"]
 
 # 英國
 
+## 交通
+
+- [trainline](https://www.thetrainline.com/) - 
+
 ## 行動網路
 
-- [giffgaff](https://www.giffgaff.com/) -
-- [Airalo](https://www.airalo.com/) - 
+- [giffgaff](https://www.giffgaff.com/) - 可以免費寄送 SIM 卡，之後再轉 eSIM
+- [Airalo](https://www.airalo.com/) - 又慢又貴，不推薦
 
-## 景點
+## 倫敦
 
-- [The London Pass](https://londonpass.com/) -
+### 食物
 
+- [Flat Iron](https://flatironsteak.co.uk/) - 平價牛排，牛排和小菜都處理得很好
+- [Where The Pancakes Are](https://www.wherethepancakesare.com/) - 鬆餅店
+- [Maison Bertaux](https://www.maisonbertaux.com/) - 百年蛋糕店
+
+# 紐西蘭
+
+## 食物
+
+- [Fergburger](https://fergburger.com/) - 
