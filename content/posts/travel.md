@@ -15,6 +15,7 @@ tags: ["tavel", "japan"]
 
 - [Google Flights](https://www.google.com/travel/flights) - 查詢航班
 - [FlightsFrom](https://www.flightsfrom.com/) - 查詢航線
+- [fast flight search](https://www.flig.ht/) - 查詢航線
 - [Seat Maps](https://seatmaps.com/) - 查詢航班座位資訊
 - [SeatGuru](https://www.seatguru.com/) - 查詢航班座位資訊
 - [哩程查詢](https://www.tripplus.cc/awardplus/redemption) - 查詢各航線在各哩程計畫所需的哩程
@@ -22,6 +23,8 @@ tags: ["tavel", "japan"]
 
 
 # 日本
+
+- [紅葉・黄葉見頃予想](https://n-kishou.com/corp/news-contents/autumn/)
 
 ## 入境
 
@@ -33,6 +36,10 @@ tags: ["tavel", "japan"]
     - [App Store](https://apps.apple.com/us/app/go-taxi-app-for-japan/id1254341709)
 
 ## 住宿
+
+- [旅行ならじゃらんnet](https://www.jalan.net/) - 住宿評價
+- [馬摩推薦的日本飯店清單(2.5~5k)
+](https://docs.google.com/spreadsheets/d/1C5rGyl0-x1w42lgYXlXfkYIiZ22Q3X3a2P5KDKcOoVs/edit?gid=0#gid=0) - 
 
 ### 東京
 
@@ -64,7 +71,9 @@ tags: ["tavel", "japan"]
 
 ## 行動網路
 
-- [Airalo](https://www.airalo.com/) - 在日本算是好用的 eSIM
+- [Way Sim 威訊](https://waysim.net/) - 便宜的 
+, 不需要安裝 App
+- [Airalo](https://www.airalo.com/) - 在日本算是好用的 eSIM, 變貴了, 需要安裝 App
 
 # 美國
 
