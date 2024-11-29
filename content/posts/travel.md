@@ -13,14 +13,15 @@ tags: ["tavel", "japan"]
 
 # 通用
 
-- [Google Flights](https://www.google.com/travel/flights) - 查詢航班
-- [FlightsFrom](https://www.flightsfrom.com/) - 查詢航線
-- [fast flight search](https://www.flig.ht/) - 查詢航線
-- [Seat Maps](https://seatmaps.com/) - 查詢航班座位資訊
-- [SeatGuru](https://www.seatguru.com/) - 查詢航班座位資訊
-- [tripplus 哩程查詢](https://www.tripplus.cc/awardplus/redemption) - 查詢各航線在各哩程計畫所需的哩程
-- [Lonely Planet](https://www.lonelyplanet.com/) - 
-- [turbli](https://turbli.com/) - 查飛機未來兩天亂流預測
+- [Google Flights](https://www.google.com/travel/flights) - Google 航班（Google Flights）是 Google 於 2011 年推出的線上機票搜尋和比價工具，旨在協助使用者快速查找、比較並預訂各大航空公司的機票。
+- [FlightsFrom](https://www.flightsfrom.com/) - FlightsFrom.com 是一個全球性的航班資訊網站，專注於提供各機場的直飛航線資訊。使用者可以透過該網站查詢特定機場的直飛目的地、航班時刻表，以及執飛的航空公司，方便規劃商務旅行或週末度假行程。
+- [fast flight search](https://www.flig.ht/) - 
+Flig.ht 是一款全球航班資訊搜尋引擎，提供快速且詳細的航班資訊，協助使用者輕鬆規劃旅行。
+- [Seat Maps](https://seatmaps.com/) - SeatMaps 是一個專為旅客設計的線上平台，提供全球超過 700 家航空公司的詳細座位圖和機艙設施資訊，協助旅客在預訂機票時選擇最適合的座位。
+- [SeatGuru](https://www.seatguru.com/) - SeatGuru 是由 TripAdvisor 擁有的網站，提供詳細的飛機座位圖和機艙設施資訊，協助旅客在預訂機票時選擇最佳座位。
+- [tripplus 哩程查詢](https://www.tripplus.cc/awardplus/redemption) - AwardPlus 是 TripPlus 推出的哩程兌換查詢工具，旨在協助使用者快速瞭解各航空公司之間的哩程兌換需求，方便規劃點數旅行。
+- [Lonely Planet](https://www.lonelyplanet.com/) - Lonely Planet（孤獨星球）是一家專注於旅遊指南的出版社，成立於1972年，總部位於澳洲墨爾本。該網站提供豐富的旅遊資訊，涵蓋全球各地的目的地介紹、旅遊建議和靈感，幫助旅行者規劃行程。
+- [turbli](https://turbli.com/) - Turbli 是一款專為旅客設計的線上工具，提供航班湍流（亂流）預測，協助旅客在飛行前瞭解可能的飛行舒適度。
 
 
 # 日本
