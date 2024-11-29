@@ -18,8 +18,9 @@ tags: ["tavel", "japan"]
 - [fast flight search](https://www.flig.ht/) - 查詢航線
 - [Seat Maps](https://seatmaps.com/) - 查詢航班座位資訊
 - [SeatGuru](https://www.seatguru.com/) - 查詢航班座位資訊
-- [哩程查詢](https://www.tripplus.cc/awardplus/redemption) - 查詢各航線在各哩程計畫所需的哩程
+- [tripplus 哩程查詢](https://www.tripplus.cc/awardplus/redemption) - 查詢各航線在各哩程計畫所需的哩程
 - [Lonely Planet](https://www.lonelyplanet.com/) - 
+- [turbli](https://turbli.com/) - 查飛機未來兩天亂流預測
 
 
 # 日本
@@ -73,7 +74,7 @@ tags: ["tavel", "japan"]
 
 - [Way Sim 威訊](https://waysim.net/) - 便宜的 
 , 不需要安裝 App
-- [Airalo](https://www.airalo.com/) - 在日本算是好用的 eSIM, 變貴了, 需要安裝 App
+- ~~[Airalo](https://www.airalo.com/) - 在日本算是好用的 eSIM, 變貴了, 需要安裝 App~~
 
 # 美國
 
