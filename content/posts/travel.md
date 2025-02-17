@@ -17,20 +17,30 @@ tags: ["tavel", "japan"]
 - [FlightsFrom](https://www.flightsfrom.com/) - FlightsFrom.com 是一個全球性的航班資訊網站，專注於提供各機場的直飛航線資訊。使用者可以透過該網站查詢特定機場的直飛目的地、航班時刻表，以及執飛的航空公司，方便規劃商務旅行或週末度假行程。
 - [fast flight search](https://www.flig.ht/) - 
 Flig.ht 是一款全球航班資訊搜尋引擎，提供快速且詳細的航班資訊，協助使用者輕鬆規劃旅行。
-- [Seat Maps](https://seatmaps.com/) - SeatMaps 是一個專為旅客設計的線上平台，提供全球超過 700 家航空公司的詳細座位圖和機艙設施資訊，協助旅客在預訂機票時選擇最適合的座位。
-- [SeatGuru](https://www.seatguru.com/) - SeatGuru 是由 TripAdvisor 擁有的網站，提供詳細的飛機座位圖和機艙設施資訊，協助旅客在預訂機票時選擇最佳座位。
 - [tripplus 哩程查詢](https://www.tripplus.cc/awardplus/redemption) - AwardPlus 是 TripPlus 推出的哩程兌換查詢工具，旨在協助使用者快速瞭解各航空公司之間的哩程兌換需求，方便規劃點數旅行。
 - [Lonely Planet](https://www.lonelyplanet.com/) - Lonely Planet（孤獨星球）是一家專注於旅遊指南的出版社，成立於1972年，總部位於澳洲墨爾本。該網站提供豐富的旅遊資訊，涵蓋全球各地的目的地介紹、旅遊建議和靈感，幫助旅行者規劃行程。
 - [turbli](https://turbli.com/) - Turbli 是一款專為旅客設計的線上工具，提供航班湍流（亂流）預測，協助旅客在飛行前瞭解可能的飛行舒適度。
 
+## 飛機座位
+
+- [AeroLOPA](https://www.aerolopa.com/) - 
+- [Seat Maps](https://seatmaps.com/) - SeatMaps 是一個專為旅客設計的線上平台，提供全球超過 700 家航空公司的詳細座位圖和機艙設施資訊，協助旅客在預訂機票時選擇最適合的座位。
+- [SeatGuru](https://www.seatguru.com/) - SeatGuru 是由 TripAdvisor 擁有的網站，提供詳細的飛機座位圖和機艙設施資訊，協助旅客在預訂機票時選擇最佳座位。
+
+
+## 行動網路
+
+- [Way Sim 威訊](https://waysim.net/) - 專為出國旅客提供穩定且優惠的上網方案，涵蓋多個國家，包括日本、韓國、新加坡和泰國等。他們的服務選項多樣，既有實體 SIM 卡，也有掃 QR code 即可上網的 eSIM，滿足不同旅客的需求。
+- [Saily](https://saily.com/) - 最近打廣告有點兇，先放這邊之後再找機會試試看
+
 
 # 日本
 
-- [紅葉・黄葉見頃予想](https://n-kishou.com/corp/news-contents/autumn/)
+- [紅葉・黄葉見頃予想](https://n-kishou.com/corp/news-contents/autumn/) - 日本氣象株式會社的紅葉・黃葉見頃預測網站提供全日本各地紅葉和銀杏最佳觀賞期的最新資訊，協助遊客規劃賞楓行程。
 
 ## 入境
 
-- [Visit Japan Web](https://www.vjw.digital.go.jp/) - 入境審查
+- [Visit Japan Web](https://www.vjw.digital.go.jp/) - 由日本數位廳推出的線上服務，旨在簡化入境日本的手續。透過此平台，旅客可事先完成檢疫、入境審查和海關申報等程序，縮短在機場的等待時間。
 
 ## 交通
 
@@ -71,13 +81,20 @@ Flig.ht 是一款全球航班資訊搜尋引擎，提供快速且詳細的航班
 
 - [ecbo cloak](https://cloak.ecbo.io) - ecbo cloak 讓您透過手機輕鬆存放行李。您可以搜索附近的商店和設施，例如車站、郵局和咖啡館，確保寄物空間。
 
-## 行動網路
-
-- [Way Sim 威訊](https://waysim.net/) - 便宜的 
-, 不需要安裝 App
-- ~~[Airalo](https://www.airalo.com/) - 在日本算是好用的 eSIM, 變貴了, 需要安裝 App~~
-
 # 美國
+
+# 加拿大
+
+## 入境
+
+- [申請 eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html)
+    - [繁體中文教學文件](https://www.canada.ca/content/dam/ircc/documents/pdf/english/eta/traditional-chinese.pdf)
+- [ArriveCAN](https://apps.apple.com/tw/app/arrivecan/id1505394667) - 入境電子申報
+
+## 交通
+
+- 溫哥華地鐵可刷信用卡
+
 
 # 德國
 
@@ -101,7 +118,6 @@ Flig.ht 是一款全球航班資訊搜尋引擎，提供快速且詳細的航班
 ## 行動網路
 
 - [giffgaff](https://www.giffgaff.com/) - 可以免費寄送 SIM 卡，之後再轉 eSIM
-- [Airalo](https://www.airalo.com/) - 又慢又貴，不推薦
 
 ## 倫敦
 
