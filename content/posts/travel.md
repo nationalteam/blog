@@ -30,9 +30,25 @@ Flig.ht 是一款全球航班資訊搜尋引擎，提供快速且詳細的航班
 
 ## 行動網路
 
-- [Way Sim 威訊](https://waysim.net/) - 專為出國旅客提供穩定且優惠的上網方案，涵蓋多個國家，包括日本、韓國、新加坡和泰國等。他們的服務選項多樣，既有實體 SIM 卡，也有掃 QR code 即可上網的 eSIM，滿足不同旅客的需求。
+- [Osaka eSIM](https://povo.jp/osaka-esim/tai/)
+    - 便宜
+    - 全日本都可以用
+    - povo
+    - KDDI
+- [Airalo](https://www.airalo.com/) - 要安裝 App
+- [Sakura Mobile](https://www.sakuramobile.jp/)
+- [酷遊卡](https://www.aircoolsim.com/) - 爛，不要買
+- [Way Sim 威訊](https://waysim.net/)
+    - QR code 直接寄到信箱，不用安裝 APP
+    - 網路選自動，可能會用到中國或香港的網路
+    - {%preview https://www.facebook.com/kakakuksk/posts/pfbid02qxhCrRDGF4ECde9mXDgVGQq15UMz4HbwNFEuwKWhiSFcvNNNXRbt11EacWHpQxjDl %}
 - [Saily](https://saily.com/) - 最近打廣告有點兇，先放這邊之後再找機會試試看
 
+
+## 機場接送
+
+- [tripool](https://www.tripool.app/)
+- [ugo](https://go.uspace.city/)
 
 # 日本
 
