@@ -19,9 +19,9 @@ tags: ["tavel", "hsbc"]
         - 點數兌換
         - 查詢回饋點數
         - 點數兌換記錄查詢
-- 免費機場接送 4次/年, 每年7月1日 reset, [格上租車](https://www.air-go.com.tw/M_Airport/AirportA_HSBC.aspx), [全鋒汽車](https://www.ezpickup.com.tw)
+- 免費機場接送 4次/年, 每年7月1日 reset, [全鋒汽車](https://hsbcbank.vlimo.com.tw/tw/)
 - 付費機場接送 4次/年, NT$475 起/次, 每年1月1日 reset, [網路預約](https://www.air-go.com.tw/M_Airport/airportB_note.aspx?cid=172&contractid=645)
-- 免費機場貴賓室 8次/年, [網路預約](https://24tms.vlimo.com.tw/HSBC/HSBC.aspx?ID=2)
+- 免費機場貴賓室 8次/年, [網路預約](https://hsbcbank.vlimo.com.tw/tw/)
 
 ## 筆記
 
@@ -64,9 +64,6 @@ tags: ["tavel", "hsbc"]
     - [機場接送](https://www.hsbc.com.tw/credit-cards/benefits/airport-transfer/)
         - 免費機場接送 4次/年
             - 活動期間 (信用卡權益年度期間) 滙豐旅人卡: 2023年7月1日至2024年6月30日
-            - [格上租車](https://www.air-go.com.tw/M_Airport/AirportA_HSBC.aspx) 「格上租車」服務專線 02-8919-9139 
-              - 預約明年的機場接送要在 12/20 之後使用電話預約
-              - 只能預約60天內接送
             - [全鋒汽車](https://www.ezpickup.com.tw)
         - Visa國際組織提供機場接送優惠價
             - 活動期間：2024年1月1日至2024年12月31日
@@ -76,7 +73,7 @@ tags: ["tavel", "hsbc"]
             - 電話預約: 02-8919-9102
     - [機場貴賓室](https://www.hsbc.com.tw/credit-cards/benefits/lounge-services/)
         - 免費機場貴賓室 8次/年
-            - [網路預約](https://24tms.vlimo.com.tw/HSBC/HSBC.aspx?ID=2)
+            - [網路預約](https://hsbcbank.vlimo.com.tw/tw/)
             - 電話預約 24小時預約專線：0800-860-929 (貴賓室服務請按2)
             - 限持卡人
         - 付費機場貴賓室
